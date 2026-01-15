@@ -1,8 +1,14 @@
 ---
-title: "temp_website"
+title: "Home"
 ---
 
-This is a Quarto website.
+## Welcome
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hi, I’m **Douglas Leong**, a Year 2 student in Data Engineering and Visualization at SIT.
 
+This website showcases:
+- My academic projects
+- Data visualization work
+- Reflections on using Generative AI
+
+Feel free to explore!

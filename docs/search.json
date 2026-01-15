@@ -1,16 +1,51 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "temp_website",
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Douglas Leong",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "title: “Reflection on the use of GenAI”\n\n## Tool Used\nI used ChatGPT as my primary GenAI tool.\n## How GenAI Helped\n- Assisted with debugging GitHub authentication\n- Helped configure Quarto and GitHub Pages\n- Provided structured explanations\n## Benefits\n- Faster learning\n- Clear step-by-step guidance\n## Challenges\n- Understanding Git workflows initially\n- Interpreting error messages\n## Future Use\nI believe GenAI will support my future studies and professional work."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "FYP.html",
+    "href": "FYP.html",
+    "title": "FYP Project",
     "section": "",
-    "text": "About this site"
+    "text": "This page introduces my Final Year Project.\n\n\n(Describe your project here)\n\n\n\nWhy this project matters.\n\n\n\nWhat you have done so far."
+  },
+  {
+    "objectID": "FYP.html#final-year-project",
+    "href": "FYP.html#final-year-project",
+    "title": "FYP Project",
+    "section": "",
+    "text": "This page introduces my Final Year Project.\n\n\n(Describe your project here)\n\n\n\nWhy this project matters.\n\n\n\nWhat you have done so far."
+  },
+  {
+    "objectID": "data-viz.html",
+    "href": "data-viz.html",
+    "title": "Data Visualization",
+    "section": "",
+    "text": "This page presents a data visualization created during my studies.\n\n\nDescribe where the data comes from.\n\n\n\nExplain what the graph shows.\n\n\n\nWhat insights can be drawn?"
+  },
+  {
+    "objectID": "data-viz.html#example-visualization",
+    "href": "data-viz.html#example-visualization",
+    "title": "Data Visualization",
+    "section": "",
+    "text": "This page presents a data visualization created during my studies.\n\n\nDescribe where the data comes from.\n\n\n\nExplain what the graph shows.\n\n\n\nWhat insights can be drawn?"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Hi, I’m Douglas Leong, a Year 2 student in Data Engineering and Visualization at SIT.\nThis website showcases: - My academic projects - Data visualization work - Reflections on using Generative AI\nFeel free to explore!"
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Home",
+    "section": "",
+    "text": "Hi, I’m Douglas Leong, a Year 2 student in Data Engineering and Visualization at SIT.\nThis website showcases: - My academic projects - Data visualization work - Reflections on using Generative AI\nFeel free to explore!"
   }
 ]

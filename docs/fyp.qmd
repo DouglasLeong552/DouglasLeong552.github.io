@@ -1,0 +1,16 @@
+---
+title: "FYP Project"
+---
+
+## Final Year Project
+
+This page introduces my Final Year Project.
+
+### Project Overview
+(Describe your project here)
+
+### Motivation
+Why this project matters.
+
+### Current Progress
+What you have done so far.

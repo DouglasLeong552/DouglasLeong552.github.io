@@ -1,0 +1,19 @@
+---
+title: "Data Visualization"
+---
+
+## Example Visualization
+
+This page presents a data visualization created during my studies.
+
+### Dataset
+
+Describe where the data comes from.
+
+### Visualization
+
+Explain what the graph shows.
+
+### Interpretation
+
+What insights can be drawn?
