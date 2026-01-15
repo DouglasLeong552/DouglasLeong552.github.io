@@ -4,30 +4,30 @@ title: "Reflection on the use of GenAI"
 
 ---
 
-\## Tool Used
+Tool Used
 
 I used ChatGPT as my primary GenAI tool.
 
-\## How GenAI Helped
+How GenAI Helped
 
 \- Assisted with debugging GitHub authentication
 
 \- Helped configure Quarto and GitHub Pages
 
-\- Provided structured explanations
+\- Provided structured and simple explanations for my learning
 
-\## Benefits
+Benefits
 
 \- Faster learning
 
 \- Clear step-by-step guidance
 
-\## Challenges
+Challenges
 
 \- Understanding Git workflows initially
 
-\- Interpreting error messages
+\- Interpreting error messages and getting stuck at different points of the assessment
 
-\## Future Use
+Future Use
 
-I believe GenAI will support my future studies and professional work.
+I believe GenAI is here to help us and will definatelu will support my studies and work.
