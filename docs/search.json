@@ -4,7 +4,7 @@
     "href": "reflection.html",
     "title": "Douglas Leong",
     "section": "",
-    "text": "title: “Reflection on the use of GenAI”\n\nTool Used\nI used ChatGPT as my primary GenAI tool.\nHow GenAI Helped\n- Assisted with debugging GitHub authentication\n- Helped configure Quarto and GitHub Pages\n- Provided structured and simple explanations for my learning\nBenefits\n- Faster learning\n- Clear step-by-step guidance\nChallenges\n- Understanding Git workflows initially\n- Interpreting error messages and getting stuck at different points of the assessment\nFuture Use\nI believe GenAI is here to help us and will definatelu will support my studies and work."
+    "text": "title: “Reflection on the use of GenAI”\n\nTool Used\nI used ChatGPT as my primary GenAI tool.\nHow GenAI Helped\n- Assisted with debugging GitHub authentication\n- Helped configure Quarto and GitHub Pages\n- Provided structured and simple explanations for my learning\nBenefits\n- Faster learning\n- Clear step-by-step guidance\nChallenges\n- Understanding Git workflows initially\n- Interpreting error messages and getting stuck at different points of the assessment\nFuture Use\nI believe GenAI is here to help us and will definately will support my studies and work."
   },
   {
     "objectID": "fyp.html",
@@ -25,14 +25,28 @@
     "href": "data-visualization.html",
     "title": "Data Visualization",
     "section": "",
-    "text": "This page presents a data visualization created during my studies.\n\n\nDescribe where the data comes from.\n\n\n\nExplain what the graph shows.\n\n\n\nWhat insights can be drawn?"
+    "text": "This page presents a data visualization created during my studies to demonstrate how quantitative data can be effectively visualized and interpreted."
   },
   {
     "objectID": "data-visualization.html#example-visualization",
     "href": "data-visualization.html#example-visualization",
     "title": "Data Visualization",
     "section": "",
-    "text": "This page presents a data visualization created during my studies.\n\n\nDescribe where the data comes from.\n\n\n\nExplain what the graph shows.\n\n\n\nWhat insights can be drawn?"
+    "text": "This page presents a data visualization created during my studies to demonstrate how quantitative data can be effectively visualized and interpreted."
+  },
+  {
+    "objectID": "data-visualization.html#dataset",
+    "href": "data-visualization.html#dataset",
+    "title": "Data Visualization",
+    "section": "Dataset",
+    "text": "Dataset\nThe dataset used in this visualization represents academic performance scores recorded annually from 2019 to 2024.\nThe values are numerical and are used to illustrate how performance changes over time."
+  },
+  {
+    "objectID": "data-visualization.html#visualization",
+    "href": "data-visualization.html#visualization",
+    "title": "Data Visualization",
+    "section": "Visualization",
+    "text": "Visualization\n```{r} # Example dataset year &lt;- 2019:2024 score &lt;- c(65, 70, 72, 78, 82, 88)"
   },
   {
     "objectID": "index.html",
